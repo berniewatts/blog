@@ -1,6 +1,6 @@
 baseURL = "http://bernardwatts.co.uk.s3-website.eu-west-2.amazonaws.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Bernard Watts"
 theme = "pixyll"
 
 [[deployment.targets]]
