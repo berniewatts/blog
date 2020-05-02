@@ -1,0 +1,9 @@
+baseURL = "http://bernardwatts.co.uk.s3-website.eu-west-2.amazonaws.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "pixyll"
+
+[[deployment.targets]]
+name = "awsbucket"
+URL = "s3://bernardwatts.co.uk/?region=eu-west-2" 
+
