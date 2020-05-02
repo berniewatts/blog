@@ -1,4 +1,4 @@
-baseURL = "http://bernardwatts.co.uk.s3-website.eu-west-2.amazonaws.com/"
+baseURL = "http://bernardwatts.co.uk.s3-website.eu-west-2.amazonaws.com"
 languageCode = "en-us"
 title = "Bernard Watts"
 theme = "pixyll"
